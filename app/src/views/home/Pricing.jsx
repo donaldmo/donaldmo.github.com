@@ -3,7 +3,7 @@ import React, { Fragment } from 'react'
 function Pricing() {
   return (
     <Fragment>
-      <div className="row">
+      <div className="row" id="pricing">
         <div className=" col-xs-12 col-sm-12 ">
           <div className="block-title">
             <h2>Pricing</h2>

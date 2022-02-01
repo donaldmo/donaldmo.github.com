@@ -21,7 +21,7 @@ export default function ContactForm({ contactDetails }) {
 
   return (
     <Fragment>
-      <div className="row">
+      <div className="row" id="contact">
         <div className=" col-xs-12 col-sm-4 ">
           <div id="info_list_1" className="info-list-w-icon">
             <div className="info-block-w-icon">
@@ -44,7 +44,7 @@ export default function ContactForm({ contactDetails }) {
               </div>
               <div className="ci-text">
                 <h4>{contactDetails.address}</h4>
-                <p>I work with local and internation clients.</p>
+                <p>I work with local and international clients.</p>
               </div>
             </div>
 
