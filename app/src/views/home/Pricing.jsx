@@ -23,7 +23,7 @@ function Pricing() {
                 </div>
 
                 <div className="fw-pricing-row">
-                  <span>R3800</span>
+                  <span>R3,800</span>
                   <small>Plus Minus</small>
                 </div>
 
@@ -32,7 +32,7 @@ function Pricing() {
                 </div>
 
                 <div className="fw-default-row">Custom Design</div>
-                <div className="fw-default-row">Wordpress</div>
+                <div className="fw-default-row">WordPress</div>
                 <div className="fw-default-row">Landing Page</div>
               </div>
             </div>
@@ -44,7 +44,7 @@ function Pricing() {
                 </div>
 
                 <div className="fw-pricing-row">
-                  <span>R18999</span>
+                  <span>R18,999</span>
                   <small>Starting from</small>
                 </div>
 
